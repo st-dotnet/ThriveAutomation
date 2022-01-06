@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Thrive_Form": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "jsWebView2Debugging": true
+    }
+  }
+}
